@@ -61,8 +61,8 @@ Curious which components explicitly require jQuery, our JavaScript, and Popper? 
 - Dropdowns for displaying and positioning (also requires [Popper](https://popper.js.org/))
 - Modals for displaying, positioning, and scroll behavior
 - Navbar for extending our Collapse plugin to implement responsive behavior
-- Tooltips and popovers for displaying and positioning (also requires [Popper](https://popper.js.org/))
 - Scrollspy for scroll behavior and navigation updates
+- Tooltips and popovers for displaying and positioning (also requires [Popper](https://popper.js.org/))
 {{< /markdown >}}
 </details>
 
@@ -155,7 +155,7 @@ Stay up to date on the development of Bootstrap and reach out to the community w
 
 - Read and subscribe to [The Official Bootstrap Blog]({{< param blog >}}).
 - Join [the official Slack room]({{< param slack >}}).
-- Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
+- Chat with fellow Bootstrappers in IRC. On the `irc.libera.chat` server, in the `#bootstrap` channel.
 - Implementation help may be found at Stack Overflow (tagged [`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4)).
 - Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/search?q=keywords:bootstrap) or similar delivery mechanisms for maximum discoverability.
 
